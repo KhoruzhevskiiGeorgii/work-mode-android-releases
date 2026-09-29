@@ -1,2 +1,3 @@
-# work-mode-android-releases
-Public release channel for the Work Mode Android app; source code remains private.
+﻿# Work Mode Android Releases
+
+Public release-only distribution repository for signed Work Mode Android APKs and machine-readable update metadata. Source code remains in the private `android-agent` repository.
