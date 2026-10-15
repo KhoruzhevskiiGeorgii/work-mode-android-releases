@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2015,
+    "versionName":  "0.2.15",
+    "release":  "android-v0.2.15",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.15/work-mode-android-v0.2.15.apk",
+    "sha256":  "61bee152a667bc68bca31768824b4ff57f145531b631de02af4c9e7911a67a10",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "1fe7000c3de4e2666fdcda1e298b47ec3f25a1f2"
+}
