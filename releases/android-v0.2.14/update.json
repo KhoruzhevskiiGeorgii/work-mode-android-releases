@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2014,
+    "versionName":  "0.2.14",
+    "release":  "android-v0.2.14",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.14/work-mode-android-v0.2.14.apk",
+    "sha256":  "ee7312241a61a3c299cc8c4c155235ac7f8dfba04d40cffdfe4233a012a5337f",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "b0ab3afa3c8a01f7b55213a680ea687c6e00b756"
+}
