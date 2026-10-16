@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2016,
+    "versionName":  "0.2.16",
+    "release":  "android-v0.2.16",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.16/work-mode-android-v0.2.16.apk",
+    "sha256":  "9af44861ce4d97ecd52747984749ed6dcde345af6da6df875a70592f401ae5ae",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "16faf397a762f163eb467e84d36c92fd9057fe01"
+}
