@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2018,
+    "versionName":  "0.2.18",
+    "release":  "android-v0.2.18",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.18/work-mode-android-v0.2.18.apk",
+    "sha256":  "eee1261e02fbf2245f3b5ebdc0b664a6e780db74cb6f6d201ec0fb0e22e7a888",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "b2473e5197559e022923cea9d17307cb3c2e4cc5"
+}
