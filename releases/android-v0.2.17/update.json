@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2017,
+    "versionName":  "0.2.17",
+    "release":  "android-v0.2.17",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.17/work-mode-android-v0.2.17.apk",
+    "sha256":  "70e2067c6dd5bc1fb0b6763312c201c5e1b47865e197fc24b6624f736e67b3e9",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "11a16e94a38bf5932219cc3857e6d018f3eea39b"
+}
