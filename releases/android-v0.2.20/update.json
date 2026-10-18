@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2020,
+    "versionName":  "0.2.20",
+    "release":  "android-v0.2.20",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.20/work-mode-android-v0.2.20.apk",
+    "sha256":  "c2cc4bce205dc5fce684f4d2190a50dec5e39c16e31f556b6d4af857e86714d1",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "ce502fdd52d4e5bd5b77cbafa8035fa3df189b23"
+}
