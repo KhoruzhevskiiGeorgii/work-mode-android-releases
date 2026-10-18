@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2021,
+    "versionName":  "0.2.21",
+    "release":  "android-v0.2.21",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.21/work-mode-android-v0.2.21.apk",
+    "sha256":  "73bee62346216e1196a5e9d42f73b9366a900b9eda59793a5815bb20cfef2621",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "c95cf95aa25ed34926e132fae6aa5f0a9dd79df3"
+}
