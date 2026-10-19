@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2024,
+    "versionName":  "0.2.24",
+    "release":  "android-v0.2.24",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.24/work-mode-android-v0.2.24.apk",
+    "sha256":  "23d9af06cc1b920954128201004eee455d4db62c9cc11ccce066d8bfb44e6d76",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "d7435d2cee6f437b61d281d1944c802b9405ce48"
+}
