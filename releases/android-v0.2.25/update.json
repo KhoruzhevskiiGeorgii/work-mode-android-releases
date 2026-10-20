@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2025,
+    "versionName":  "0.2.25",
+    "release":  "android-v0.2.25",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.25/work-mode-android-v0.2.25.apk",
+    "sha256":  "4df510d87510a97a34a381c11977dcb19ceeab2d417b9d1208fb5e1115f4ffb8",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "58220b35b1d0e075ef9afe0c3d24234dff3b56b6"
+}
