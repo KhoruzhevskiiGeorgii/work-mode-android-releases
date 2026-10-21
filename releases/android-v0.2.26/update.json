@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2026,
+    "versionName":  "0.2.26",
+    "release":  "android-v0.2.26",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.26/work-mode-android-v0.2.26.apk",
+    "sha256":  "71580bcb46cf85acd5285dd86cdd20e3b9c949528fb0666504894997c9b9069c",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "923ac405f2d9e4bf39c6fa1bf21708edef385e94"
+}
