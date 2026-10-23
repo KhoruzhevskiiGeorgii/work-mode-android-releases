@@ -1,0 +1,13 @@
+{
+    "schemaVersion":  1,
+    "versionCode":  2029,
+    "versionName":  "0.2.29",
+    "release":  "android-v0.2.29",
+    "apkDownloadUrl":  "https://github.com/KhoruzhevskiiGeorgii/work-mode-android-releases/releases/download/android-v0.2.29/work-mode-android-v0.2.29.apk",
+    "sha256":  "ddf243418368d3fc66335d0efaac38a4045fc434c87c5c6db6dbca6ed42e91b7",
+    "packageId":  "io.github.khoruzhevskiigeorgii.androidobserver",
+    "signerSha256":  "166cedd94d27b3360eb0cb2135317cf19cdd48b6062a7739bdbfd14c5edbdba2",
+    "minSdk":  31,
+    "sourceRepo":  "KhoruzhevskiiGeorgii/android-agent",
+    "sourceSha":  "58d4331569789ce536e8d75688fadc7e23345b3d"
+}
